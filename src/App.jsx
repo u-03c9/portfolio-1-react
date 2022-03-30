@@ -5,6 +5,7 @@ import Experiences from "./components/experiences/Experiences.comp";
 import Services from "./components/services/Services.comp";
 import Portfolio from "./components/portfolio/Portfolio.comp";
 import Testimonials from "./components/testimonials/Testimonials.comp";
+import Contact from "./components/contact/Contact.comp";
 import Footer from "./components/footer/Footer.comp";
 
 import "./App.css";
@@ -19,6 +20,7 @@ function App() {
       <Services />
       <Portfolio />
       <Testimonials />
+      <Contact />
       <Footer />
     </div>
   );
