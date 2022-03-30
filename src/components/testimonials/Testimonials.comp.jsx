@@ -11,28 +11,28 @@ import "./testimonials.styles.css";
 const Testimonials = () => {
   const items = [
     {
-      imageUrl: "/assets/avatar1.jpg",
+      imageUrl: "assets/avatar1.jpg",
       name: "Tina Snow",
       review: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut nesciunt ea, odio id dolore
         ipsum consectetur maxime, qui aspernatur exercitationem obcaecati cumque porro? Sunt
         placeat, nostrum eum et laudantium illo.`,
     },
     {
-      imageUrl: "/assets/avatar2.jpg",
+      imageUrl: "assets/avatar2.jpg",
       name: "Shatta Wale",
       review: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut nesciunt ea, odio id dolore
         ipsum consectetur maxime, qui aspernatur exercitationem obcaecati cumque porro? Sunt
         placeat, nostrum eum et laudantium illo.`,
     },
     {
-      imageUrl: "/assets/avatar3.jpg",
+      imageUrl: "assets/avatar3.jpg",
       name: "Kuame Despite",
       review: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut nesciunt ea, odio id dolore
         ipsum consectetur maxime, qui aspernatur exercitationem obcaecati cumque porro? Sunt
         placeat, nostrum eum et laudantium illo.`,
     },
     {
-      imageUrl: "/assets/avatar4.jpg",
+      imageUrl: "assets/avatar4.jpg",
       name: "Amal Mahmoud",
       review: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut nesciunt ea, odio id dolore
         ipsum consectetur maxime, qui aspernatur exercitationem obcaecati cumque porro? Sunt
