@@ -20,23 +20,23 @@ const Testimonials = () => {
     {
       imageUrl: "/assets/avatar2.jpg",
       name: "Shatta Wale",
-      review: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam fugiat pariatur quos
-        asperiores ducimus earum laudantium, eius quis ipsa autem, quae nisi labore ab obcaecati
-        mollitia! Ullam sed obcaecati dolorem.`,
+      review: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut nesciunt ea, odio id dolore
+        ipsum consectetur maxime, qui aspernatur exercitationem obcaecati cumque porro? Sunt
+        placeat, nostrum eum et laudantium illo.`,
     },
     {
       imageUrl: "/assets/avatar3.jpg",
       name: "Kuame Despite",
-      review: `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit perferendis cum dolores
-        ratione assumenda excepturi fugit! Doloremque, illo praesentium. Architecto distinctio nihil
-        velit sint numquam expedita. In porro eum aspernatur.`,
+      review: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut nesciunt ea, odio id dolore
+        ipsum consectetur maxime, qui aspernatur exercitationem obcaecati cumque porro? Sunt
+        placeat, nostrum eum et laudantium illo.`,
     },
     {
       imageUrl: "/assets/avatar4.jpg",
       name: "Amal Mahmoud",
-      review: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, commodi optio maiores
-        nemo rem facere mollitia quia voluptates placeat, pariatur sit quis sequi hic impedit nulla.
-        Provident nulla porro consectetur.`,
+      review: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut nesciunt ea, odio id dolore
+        ipsum consectetur maxime, qui aspernatur exercitationem obcaecati cumque porro? Sunt
+        placeat, nostrum eum et laudantium illo.`,
     },
   ];
 
