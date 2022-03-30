@@ -1,0 +1,73 @@
+.experiences__cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.experiences__card {
+  background-color: var(--color-bg-variant);
+  padding: 2.4rem 5rem;
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.experiences__card:hover {
+  background-color: transparent;
+  border-color: var(--color-bg-variant);
+  cursor: default;
+}
+
+.experiences__card h3 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--color-primary);
+}
+
+.experiences__content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 2rem;
+}
+
+.experiences__details {
+  display: flex;
+  gap: 1rem;
+}
+
+.experiences__details .icon {
+  margin-top: 6px;
+  color: var(--color-primary);
+}
+
+/* ====================== */
+/* media queries (tablet) */
+
+@media screen and (max-width: 1024px) {
+  .experiences__cards {
+    grid-template-columns: 1fr;
+  }
+
+  .experiences__card {
+    width: 80%;
+    padding: 2rem;
+    margin: 0 auto;
+  }
+
+  .experiences__content {
+    padding: 1rem;
+  }
+}
+
+/* ===================== */
+/* media queries (phone) */
+
+@media screen and (max-width: 600px) {
+  .experiences__cards {
+    gap: 1rem;
+  }
+  .experiences__card {
+    width: 100%;
+    padding: 2rem 1rem;
+  }
+}
